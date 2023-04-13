@@ -1,0 +1,42 @@
+*{
+    box-sizing: 10px;
+}
+
+body{
+    margin: 20px;
+    padding: 20px;
+}
+
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: palegreen;
+    background-color: black;
+    text-align: center;
+}
+h1{
+    
+    font-family: serif;
+   background-color: bisque;
+  
+   
+}
+
+
+.Qualification{
+    background: rgb(194, 228, 241);
+
+}
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    border-style: ridge;
+  }
+
+hr{
+  border: ridge;
+
+    
+
+}
